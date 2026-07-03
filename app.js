@@ -1,4 +1,4 @@
-const defaultProducts = [
+const defaultProducts = [ 
   /* --- DESGLOSE FÓRMULA 1 BATIDO NUTRICIONAL (CL$ 40.377) --- */
   { 
     id: 1, 
